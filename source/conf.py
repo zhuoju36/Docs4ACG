@@ -17,12 +17,12 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Docs4ACG'
+project = 'ACG'
 copyright = '2022, Zhuoju Huang'
 author = 'Zhuoju Huang'
 
 # The full version, including alpha/beta/rc tags
-release = 'v0.0.10'
+release = 'v0.0.11.1'
 
 
 # -- General configuration ---------------------------------------------------
