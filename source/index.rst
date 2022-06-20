@@ -12,12 +12,12 @@ ACG（Adaptable Computation Gadget）是一个面向结构设计师的Rhinoceros
    :maxdepth: 1
    :caption: 目录
    
-   快速开始
-   常用功能/contents
-   菜单/contents
-   命令/contents
-   关于
-   更新日志
+   quickstart
+   functions/contents
+   examples/contents
+   technote/contents
+   about
+   changelog
 
 
 .. Indices and tables

@@ -1,6 +1,7 @@
-命令
+绘制图纸
 ==============
 .. toctree::
    :maxdepth: 2
 
-   import
+   dimtruss
+   drawpoints
